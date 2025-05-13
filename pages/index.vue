@@ -2,7 +2,7 @@
   <main class="flex flex-col justify-center">
     <HomeHero />
     <HomeFeatures />
-    <HomeLogos />
-    <HomeCta />
+    <!--<HomeLogos />
+    <HomeCta />-->
   </main>
 </template>
