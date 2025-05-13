@@ -72,18 +72,6 @@ const { title, email, telegram, blog, twitter, mastodon, github } = useAppConfig
           />
         </a>
 
-        <a
-          v-if="mastodon"
-          :href="mastodon"
-          target="_blank"
-          title="Mastodon"
-          class="text-gray-400 hover:text-gray-500"
-        >
-          <span class="sr-only">{{ $t('layouts.footer.social.mastodon') }}</span>
-          <MastodonIcon
-            class="w-6 h-6"
-          />
-        </a>
 
         <a
           v-if="github"
