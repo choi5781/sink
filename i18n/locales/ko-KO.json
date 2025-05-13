@@ -1,0 +1,169 @@
+{
+  "common": {
+    "i18n": "다중 언어,
+    "abbreviations": "Ko",
+    "current_language": "Korean",
+    "try_again": "재시도",
+    "cancel": "취소",
+    "continue": "계속",
+    "close": "닫기",
+    "save": "저장",
+    "edit": "편집",
+    "delete": "삭제",
+    "delete_success": "삭제 성공!",
+    "search": "검색"
+  },
+  "theme": {
+    "toggle": "Toggle theme",
+    "light": "밝게",
+    "dark": "어둡게",
+    "system": "시스템설정"
+  },
+  "login": {
+    "title": "로그인",
+    "description": "사이트 토큰을 입력하여 로그인하세요",
+    "tips": "Tips",
+    "preview_token": "미리보기 모드의 사이트 토큰은 다음과 같습니다.",
+    "submit": "로긘",
+    "failed": "로그인에 실패했습니다. 다시 시도해 주세요."
+  },
+  "logout": {
+    "title": "로그아웃?",
+    "confirm": "로그아웃하시겠습니까?",
+    "action": "로그아웃"
+  },
+  "layouts": {
+    "footer": {
+      "copyright": "Products of HTML.ZONE",
+      "social": {
+        "email": "이메일",
+        "telegram": "텔레그램",
+        "blog": "블로그",
+        "twitter": "트위터",
+        "mastodon": "Mastodon",
+        "github": "GitHub"
+      }
+    },
+    "header": {
+      "select_language": "언어 선택"
+    }
+  },
+  "nav": {
+    "links": "단축링크",
+    "analysis": "분석"
+  },
+  "home": {
+    "features": {
+      "title": "특징",
+      "subtitle": "간단하고 충분한 기능",
+      "url_shortening": {
+        "title": "URL 단축",
+        "description": "URL을 최소 길이로 압축하세요"
+      },
+      "analytics": {
+        "title": "분석",
+        "description": "링크 분석을 모니터링하고 통찰력 있는 통계를 수집합니다."
+      },
+      "serverless": {
+        "title": "서버리스",
+        "description": "서버리스 기존 서버 없이 배포"
+      },
+      "customizable_slug": {
+        "title": "사용자 정의 가능한 슬러그",
+        "description": "개인화된 슬러그 및 대소문자 구분 지원"
+      },
+      "ai_slug": {
+        "title": "인공지능 슬러그",
+        "description": "인공지능을 활용하여 슬러그 생성"
+      },
+      "link_expiration": {
+        "title": "링크 만료",
+        "description": "링크의 만료 날짜를 설정하세요"
+      }
+    },
+    "cta": {
+      "title": "즉시 배포",
+      "description": "몇 번의 간단한 클릭만으로 비용 없이 배포를 시작할 수 있습니다.",
+      "button": "배포 시작"
+    },
+    "logos": {
+      "title": "놀라운 기술로 제작되었습니다"
+    },
+    "twitter": {
+      "follow": "X(트위터)에서 나를 팔로우하세요"
+    }
+  },
+  "dashboard": {
+    "title": "대시보드",
+    "visits": "방문자수",
+    "views": "Views",
+    "visitors": "방문자수",
+    "referers": "참조",
+    "stats": "의 통계",
+    "custom_date": "사용자 지정 날짜",
+    "date": "날짜",
+    "date_range": "날짜범위",
+    "locations": "위치",
+    "details": "세부사항",
+    "name": "이름",
+    "count": "카운트",
+    "loading": "로딩중",
+    "no_data": "데이터 없음",
+    "none": "(None)",
+    "filter_placeholder": "필터 링크...",
+    "date_picker": {
+      "today": "오늘",
+      "last_24h": "최근 24시간",
+      "this_week": "이번주",
+      "last_7d": "최근 7일",
+      "this_month": "이번달",
+      "last_30d": "지난 30일",
+      "last_90d": "지난 90일",
+      "custom": "사용자 지정",
+      "custom_title": "사용자 지정 날짜",
+      "single_date": "날짜",
+      "date_range": "날짜 범위"
+    },
+    "metrics": {
+      "country": "국가",
+      "region": "지역",
+      "city": "도시",
+      "referer": "Referer",
+      "slug": "Slug",
+      "language": "언어",
+      "timezone": "시간대",
+      "device": "기기",
+      "deviceType": "장치 유형",
+      "os": "운영체제",
+      "browser": "브라우저",
+      "browserType": "브라우저 유형"
+    }
+  },
+  "links": {
+    "create": "링크 생성",
+    "edit": "링크 편집",
+    "delete_confirm_title": "정말 확신하시나요?",
+    "delete_confirm_desc": "이 작업은 취소할 수 없습니다. 실행하면 링크가 서버에서 삭제됩니다.",
+    "delete_success": "삭제 성공!",
+    "update_success": "링크가 성공적으로 업데이트되었습니다",
+    "create_success": "링크가 성공적으로 생성되었습니다",
+    "preview_mode_tip": "미리보기 모드 링크는 최대 5분 동안 유효합니다.",
+    "search_placeholder": "검색 링크...",
+    "no_results": "링크를 찾을 수 없습니다.",
+    "group_title": "링크",
+    "copy_success": "복사성공!",
+    "created_at": "생성됨",
+    "updated_at": "업데이트됨",
+    "expires_at": "만료일",
+    "no_more": "더 이상 링크가 없습니다",
+    "load_failed": "링크 로딩에 실패했습니다,",
+    "download_qr_code": "QR 코드 다운로드",
+    "sort": {
+      "newest": "최신순",
+      "oldest": "오래된순",
+      "az": "슬러그 A-Z",
+      "za": "글러그 Z-A",
+      "tip": "경험: 로드된 링크에만 해당"
+    }
+  }
+}
