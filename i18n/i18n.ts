@@ -8,10 +8,10 @@ const locales: LocaleObject[] = [
     emoji: '🇺🇸',
   },
   {
-    code: 'ko-KO',
-    file: 'ko-KO.json',
+    code: 'ko-KR',
+    file: 'ko-KR.json',
     name: '한국어',
-    emoji: ':kr:',
+    emoji: '🇨🇳',
   },
   {
     code: 'zh-CN',
