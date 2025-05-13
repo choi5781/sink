@@ -11,7 +11,7 @@ const locales: LocaleObject[] = [
     code: 'ko-KO',
     file: 'ko-KO.json',
     name: '한국어',
-    emoji: '# :kr:',
+    emoji: ':kr:',
   },
   {
     code: 'zh-CN',
