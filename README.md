@@ -2,29 +2,6 @@
 
 **A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.**
 
-<a href="https://trendshift.io/repositories/10421" target="_blank">
-  <img
-    src="https://trendshift.io/api/badge/repositories/10421"
-    alt="ccbikai/Sink | Trendshift"
-    width="250"
-    height="55"
-  />
-</a>
-<a href="https://news.ycombinator.com/item?id=40843683" target="_blank">
-  <img
-    src="https://hackernews-badge.vercel.app/api?id=40843683"
-    alt="Featured on Hacker News"
-    width="250"
-    height="55"
-  />
-</a>
-<a href="https://www.uneed.best/tool/sink" target="_blank">
-  <img
-    src="https://www.uneed.best/POTW1.png"
-    alt="Uneed Badge"
-    height="55"
-  />
-</a>
 
 [<img src="https://devin.ai/assets/deepwiki-badge.png" alt="DeepWiki" height="20"/>](https://deepwiki.com/ccbikai/Sink)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F69652?style=flat&logo=cloudflare&logoColor=white)
@@ -32,9 +9,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 
-![Hero](./public/image.png)
-
-----
 
 ## ✨ Features
 
@@ -45,21 +19,6 @@
 - **🪄 AI Slug:** Leverage AI to generate slugs.
 - **Link Expiration:** Set expiration dates for your links.
 
-## 🪧 Demo
-
-Experience the demo at [Sink.Cool](https://sink.cool/dashboard). Log in using the Site Token below:
-
-```txt
-Site Token: SinkCool
-```
-
-<details>
-  <summary><b>Screenshots</b></summary>
-  <img alt="Analytics" src="./docs/images/sink.cool_dashboard.png"/>
-  <img alt="Links" src="./docs/images/sink.cool_dashboard_links.png"/>
-  <img alt="Link Analytics" src="./docs/images/sink.cool_dashboard_link_slug.png"/>
-</details>
-
 ## 🧱 Technologies Used
 
 - **Framework**: [Nuxt](https://nuxt.com/)
@@ -68,25 +27,7 @@ Site Token: SinkCool
 - **UI Components**: [Shadcn-vue](https://www.shadcn-vue.com/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **Deployment**: [Cloudflare](https://www.cloudflare.com/)
-
-## 🚗 Roadmap [WIP]
-
-We welcome your contributions and PRs.
-
-- [x] Browser Extension
-      - [Sink Tool](https://github.com/zhuzhuyule/sink-extension)
-- [x] Raycast Extension
-      - [Raycast-Sink](https://github.com/foru17/raycast-sink)
-- [x] Apple Shortcuts
-      - [Sink Shortcuts](https://s.search1api.com/sink001)
-- [x] iOS App
-      - [Sink](https://apps.apple.com/app/id6745417598)
-- [ ] Enhanced Link Management (with Cloudflare D1)
-- [ ] Analytics Enhancements (Support for merging filter conditions)
-- [ ] Dashboard Performance Optimization (Infinite loading)
-- [ ] Units Test
-- [ ] Support for Other Deployment Platforms
-
+<!--
 ## 🏗️ Deployment
 
 > Video tutorial: [Watch here](https://www.youtube.com/watch?v=MkU23U2VE9E)
@@ -110,7 +51,7 @@ We welcome your contributions and PRs.
 
 7. Redeploy the project.
 8. Update code, refer to the official GitHub documentation [Syncing a fork branch from the web UI](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork#syncing-a-fork-branch-from-the-web-ui).
-
+-->
 ## ⚒️ Configuration
 
 [Configuration Docs](./docs/configuration.md)
@@ -129,7 +70,8 @@ We welcome your contributions and PRs.
 2. [**NuxtHub**](https://hub.nuxt.com/)
 3. [**Astroship**](https://astroship.web3templates.com/)
 
-## ☕ Sponsor
+<!--## ☕ Sponsor
 
 1. [Follow Me on X(Twitter)](https://404.li/kai).
 2. [Become a sponsor to on GitHub](https://github.com/sponsors/ccbikai).
+-->
