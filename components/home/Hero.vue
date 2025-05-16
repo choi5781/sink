@@ -3,7 +3,7 @@ import heroImg from '@/assets/images/hero.svg?raw'
 import { AreaChart } from 'lucide-vue-next'
 import { GitHubIcon } from 'vue3-simple-icons'
 
-const { title, description, github } = useAppConfig()
+const { title, github } = useAppConfig()
 </script>
 
 <template>
