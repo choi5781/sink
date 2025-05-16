@@ -3,13 +3,7 @@ import heroImg from '@/assets/images/hero.svg?raw'
 import { AreaChart } from 'lucide-vue-next'
 import { GitHubIcon } from 'vue3-simple-icons'
 
-const { t } = useI18n()
-const hero = computed(() => [
-  {
-    description: t('home.hero.url_shortening.description'),
-  },
-])
-const { title, github } = useAppConfig()
+const { title, description, github } = useAppConfig()
 </script>
 
 <template>
@@ -23,7 +17,7 @@ const { title, github } = useAppConfig()
         {{ title }}
       </h1>
       <p class="max-w-xl mt-4 text-lg text-slate-600">
-        {{ item.description }}
+        {{ description }}
       </p>
       <div class="flex flex-col gap-3 mt-6 sm:flex-row">
         <HomeLink
