@@ -53,6 +53,9 @@
     "analysis": "분석"
   },
   "home": {
+     "hero": {
+      "description": "URL 단축 서비스 / 분석 /서버리스 / 사용자정의 슬러그 / 인공지능 슬러그 / 링크만료 등"
+    },
     "features": {
       "title": "특징",
       "subtitle": "간단하고 충분한 기능",
