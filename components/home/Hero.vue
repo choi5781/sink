@@ -3,7 +3,12 @@ import heroImg from '@/assets/images/hero.svg?raw'
 import { AreaChart } from 'lucide-vue-next'
 import { GitHubIcon } from 'vue3-simple-icons'
 
-const { description } = useI18n()
+const { t } = useI18n()
+const hero = computed(() => [
+  {
+    description: t('home.hero.url_shortening.description'),
+  },
+])
 const { title, github } = useAppConfig()
 </script>
 
